@@ -1,0 +1,10 @@
+* cl-kanren-trs
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-kanren-trs/cl-kanren-trs.git   |
+| commit  |   |
+| systems | cl-kanren-trs |
+|---------+-------------------------------------------|
+
