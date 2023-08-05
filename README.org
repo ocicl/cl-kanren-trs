@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/cl-kanren-trs/cl-kanren-trs.git   |
-| commit  |   |
-| systems | cl-kanren-trs |
-|---------+-------------------------------------------|
+1f86cd6---------+-------------------------------------------|
+1f86cd6 source  | git:https://gitlab.common-lisp.net/cl-kanren-trs/cl-kanren-trs.git   |
+1f86cd6 commit  |   |
+1f86cd6 systems | cl-kanren-trs |
+1f86cd6---------+-------------------------------------------|
 
