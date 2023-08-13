@@ -5,5 +5,5 @@
 |---------+--------------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/cl-kanren-trs/cl-kanren-trs.git |
 | commit  | 1f86cd6                                                            |
-| systems | cl-kanren-trs                                                      |
+| systems | (kanren-trs)                                                       |
 |---------+--------------------------------------------------------------------|
